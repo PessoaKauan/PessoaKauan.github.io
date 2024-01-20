@@ -1,0 +1,78 @@
+*{
+  margin:0px;
+  padding:0px;
+  font-family: arial;
+  text-align: center;
+  text-decoration: none;
+}
+.bloco1{
+border: 1px solid #111;
+width: 90%;
+height: 150px;
+margin: 0 auto;
+margin-bottom: 2%;
+background-color: #111;
+border-radius: 4px 4px 4px 4px;
+}
+.titulo{
+  padding: 1%;
+}
+.carro{
+  color: #b2b2b2;
+  padding:1%;
+}
+span{
+  color:#febe01;
+}
+.modelo{
+  color: #b2b2b2;
+  padding:1%;
+
+}
+.comprarCarro{
+  margin: 0 auto;
+  height: 25px;
+  width: 25%;
+  padding: 1%;
+  border-radius: 4px 4px 4px 4px;
+  background-color:  #febe01;
+  color:#332200;
+  }
+.comprarCarro:hover{
+transition: all ease .4;
+color: #b2b2b2;
+
+}
+.bloco2{
+  border: 1px solid #111;
+  width: 90%;
+  height: 150px;
+  margin: 0 auto;
+  margin-bottom: 2%;;
+  background-color: #111;
+  border-radius: 4px 4px 4px 4px;
+  
+  }
+  .moto{
+    color: #b2b2b2;
+   padding:1%;
+  }
+  .modelo{
+    color: #b2b2b2;
+    padding:1%;
+   
+  }
+  .comprar{
+    margin: 0 auto;
+    height: 25px;
+    width: 25%;
+    padding:1%;
+    border-radius: 4px 4px 4px 4px;
+    background-color:  #febe01;
+    color:#332200;
+    text-decoration: none;
+  }
+  .comprar:hover{
+  transition: all ease .4;
+  color: #b2b2b2;
+  }
